@@ -1,0 +1,4 @@
+@import url('https://fonts.googleapis.com/css?family=Gugi&display=swap');
+.avatar_text h1{font-family: 'Gugi', cursive;}
+.avatar_text{background: purple; font-family: 'Gugi', cursive;}
+.avatar_text img{width: 200px;}
